@@ -27,7 +27,6 @@ STEP:7 compare the output with truth table
 # Circuit Diagram
 ![image](https://github.com/RESMIRNAIR/ENCODER3TO8/assets/154305926/6fa5fe84-fe6f-472d-b9c0-e6dfa17413d3)
 ![image](https://github.com/RESMIRNAIR/ENCODER3TO8/assets/154305926/7d147e2a-ba03-4714-baee-17615c9c50c1)
-
 # VERILOG CODE:
 module encoder(d,a,b,c);
 
@@ -46,6 +45,7 @@ endmodule
 ![image](https://github.com/navyasaik/ENCODER8TO3/assets/165140258/a3709c37-1a1a-4b87-9b3c-7e3740e2ac39)
 
 RESULT:
+
 Thus, the verilog program for Encoder has been simulated and verified successfully.
 
 
